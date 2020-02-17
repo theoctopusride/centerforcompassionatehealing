@@ -13,6 +13,7 @@
     "font-awesome5": "^1.0.5",
     "fontawesome": "^5.6.3",
     "jquery": "^3.4.1",
+	"lite-server": "^2.5.3",
     "mongoose": "^5.6.9",
     "nodemon": "^1.19.1",
     "popper": "^1.0.1",
@@ -21,7 +22,6 @@
     "touch": "^3.1.0"
   },
   "devDependencies": {
-    "lite-server": "^2.5.3"
   },
   "scripts": {
     "start": "npm run lite",
