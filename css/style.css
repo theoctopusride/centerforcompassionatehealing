@@ -1,0 +1,86 @@
+/*
+*
+* Custom CSS Styles
+*
+*/
+
+ul{
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+}
+
+.showcase1 {
+    height: 535px;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: #ccc 1px solid;
+    margin-bottom: 30px;
+    color: #fff;
+    background: url('../img/background-image14.jpg') top center;
+    background-size: cover;
+    display: flex;
+}
+
+.showcase2 {
+    height: 535px;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: #ccc 1px solid;
+    color: #fff;
+    background: url('../img/background-image16.jpg') center center;  
+    background-size: cover;
+	}
+
+.showcase3 {
+    height: 535px;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: #ccc 1px solid;
+    color: #fff;
+    background: url('../img/background-image17.jpg') center center;  
+    background-size: cover;  
+}
+
+.showcase4 {
+    height: 535px;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: #ccc 1px solid;
+    color: #fff;
+    background: url('../img/background-image6.jpg') center center;  
+    background-size: cover;  
+}
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.img-circle{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+    }
+
+.img-rectangle{
+    width: 300px;
+    height: 300px;
+    }
+
+.space1{
+    height: 25px;
+}
+    
+.space2{
+    height: 115px;
+}
+
+.space3{
+    height: 135px;
+}

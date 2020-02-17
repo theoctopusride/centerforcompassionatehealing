@@ -1,0 +1,23 @@
+{
+  "name": "grace-herwig-blog-tutorial",
+  "version": "1.0.0",
+  "description": "Create website for Grace Herwig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoctopusride/center_for_healing.git"
+  },
+  "keywords": [
+    "blog",
+    "website"
+  ],
+  "author": "John Herwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theoctopusride/center_for_healing/issues"
+  },
+  "homepage": "https://github.com/theoctopusride/center_for_healing#readme"
+}
