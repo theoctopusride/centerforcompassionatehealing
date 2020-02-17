@@ -1,23 +1,41 @@
 {
-  "name": "grace-herwig-blog-tutorial",
+  "name": "graceherwigaprn.com",
   "version": "1.0.0",
-  "description": "Create website for Grace Herwig",
-  "main": "index.js",
+  "description": "center for compassionate healing website",
+  "main": "index.html",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.3.1",
+    "bootstrap-social": "^5.1.1",
+    "bootstrap4": "0.0.1-security",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "font-awesome5": "^1.0.5",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.6.9",
+    "nodemon": "^1.19.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.15.0",
+    "rm": "^0.1.8",
+    "touch": "^3.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theoctopusride/center_for_healing.git"
+    "url": "git+https://github.com/theoctopusride/graceherwigaprn.com.git"
   },
-  "keywords": [
-    "blog",
-    "website"
-  ],
   "author": "John Herwig",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theoctopusride/center_for_healing/issues"
+    "url": "https://github.com/theoctopusride/graceherwigaprn.com/issues"
   },
-  "homepage": "https://github.com/theoctopusride/center_for_healing#readme"
+  "homepage": "https://github.com/theoctopusride/graceherwigaprn.com#readme"
 }
