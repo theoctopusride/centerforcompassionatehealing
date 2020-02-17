@@ -24,7 +24,7 @@
     "lite-server": "^2.5.3"
   },
   "scripts": {
-    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" "
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
