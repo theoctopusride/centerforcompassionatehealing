@@ -38,8 +38,9 @@ ul{
     text-align: center;
     border-bottom: #ccc 1px solid;
     color: #fff;
-    background: url('../img/background-image17.jpg') center center;  
-    background-size: cover;  
+    background: url('../img/background-image18.jpg') center;
+	background-size: cover;
+	display: flex;
 }
 
 .showcase4 {
