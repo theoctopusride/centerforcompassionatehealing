@@ -3,10 +3,36 @@
 * Custom CSS Styles
 *
 */
+@media only screen and (max-width: 600px) {
+	
+	.showcase1 {
+    height: 500px;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: #ccc 1px solid;
+    margin-bottom: 30px;
+    color: #fff;
+    background: url('../img/background-image14.jpg') top center;
+    background-size: cover;
+    display: flex;
+	}
+}
 
 @media only screen and (min-width: 600px) {
 	.space4{
-		height: 85px;
+		height: 75px;
+	}
+	
+	.showcase1 {
+    height: 535px;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: #ccc 1px solid;
+    margin-bottom: 30px;
+    color: #fff;
+    background: url('../img/background-image14.jpg') top center;
+    background-size: cover;
+    display: flex;
 	}
 }
 
@@ -14,18 +40,6 @@ ul{
 	columns: 3;
 	-webkit-columns: 3;
 	-moz-columns: 3;
-}
-
-.showcase1 {
-    height: 535px;
-    padding-top: 40px;
-    text-align: center;
-    border-bottom: #ccc 1px solid;
-    margin-bottom: 20px;
-    color: #fff;
-    background: url('../img/background-image14.jpg') top center;
-    background-size: cover;
-    display: flex;
 }
 
 .showcase2 {
