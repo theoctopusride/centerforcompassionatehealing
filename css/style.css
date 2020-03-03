@@ -3,11 +3,6 @@
 * Custom CSS Styles
 *
 */
-@media only screen and (max-width: 600px) {
-	.space4{
-		height: 10px;
-	}
-}
 
 @media only screen and (min-width: 600px) {
 	.space4{
