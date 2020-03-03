@@ -105,3 +105,7 @@ ul{
 .space3{
     height: 135px;
 }
+img{
+	image-orientation: from-image;
+}
+}
