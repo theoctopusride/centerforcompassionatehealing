@@ -3,21 +3,21 @@
 * Custom CSS Styles
 *
 */
-@media only screen and (max-width: 767px) and (orientation:portrait) {
+@media only screen and (max-width: 800px) and (orientation:portrait) {
 	
 	.space4{
-		height: 25px;
+		height: 30px;
 	}
 }
 
-@media screen and (orientation:landscape) {
+@media screen and (max-width: 800px) and (orientation:landscape) {
 	
 	.space4{
 		height: 0px;
 	}
 }
 
-@media screen and (min-width:767px) {
+@media screen and (min-width:800px) {
 	
 	.space4{
 		height: 190px;
