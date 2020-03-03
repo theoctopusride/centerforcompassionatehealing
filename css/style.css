@@ -6,7 +6,7 @@
 
 @media only screen and (min-width: 600px) {
 	.space4{
-		height: 75px;
+		height: 85px;
 	}
 }
 
@@ -21,7 +21,7 @@ ul{
     padding-top: 40px;
     text-align: center;
     border-bottom: #ccc 1px solid;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     color: #fff;
     background: url('../img/background-image14.jpg') top center;
     background-size: cover;
