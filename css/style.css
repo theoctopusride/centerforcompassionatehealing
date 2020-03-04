@@ -12,6 +12,12 @@
 	.space5{
 		height: 50px;
 	}
+	ul{
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+	column-gap: 40px;
+}
 }
 
 @media only screen and (max-width: 800px) and (orientation:portrait) {
@@ -22,6 +28,12 @@
 	.space5{
 		height: 40px;
 	}
+	ul{
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+	column-gap: 45px;
+}
 }
 
 @media screen and (max-width: 800px) and (orientation:landscape) {
@@ -32,6 +44,12 @@
 	.space5{
 		height: 0px;
 	}
+	ul{
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+	column-gap: 40px;
+}
 }
 
 @media screen and (min-width:800px) {
@@ -42,13 +60,12 @@
 	.space5{
 		height: 0px;
 	}
-}
-
-ul{
+	ul{
 	columns: 3;
 	-webkit-columns: 3;
 	-moz-columns: 3;
 	column-gap: 40px;
+}
 }
 
 .showcase1 {
