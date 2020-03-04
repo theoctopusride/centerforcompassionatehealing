@@ -32,7 +32,7 @@
 	columns: 2;
 	-webkit-columns: 2;
 	-moz-columns: 2;
-	column-gap: 45px;
+	column-gap: 40px;
 }
 }
 
@@ -45,9 +45,9 @@
 		height: 0px;
 	}
 	ul{
-	columns: 3;
-	-webkit-columns: 3;
-	-moz-columns: 3;
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
 	column-gap: 40px;
 }
 }
