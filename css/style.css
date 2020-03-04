@@ -7,7 +7,10 @@
 @media only screen and (max-width: 600px) and (orientation:portrait) {
 	
 	.space4{
-		height: 10px;
+		height: 0px;
+	}
+	.space4{
+		height: 40px;
 	}
 }
 
@@ -16,6 +19,9 @@
 	.space4{
 		height: 30px;
 	}
+	.space4{
+		height: 0px;
+	}
 }
 
 @media screen and (max-width: 800px) and (orientation:landscape) {
@@ -23,12 +29,18 @@
 	.space4{
 		height: 100px;
 	}
+	.space4{
+		height: 0px;
+	}
 }
 
 @media screen and (min-width:800px) {
 	
 	.space4{
 		height: 190px;
+	}
+	.space4{
+		height: 0px;
 	}
 }
 
