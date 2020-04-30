@@ -12,7 +12,7 @@
     "font-awesome": "^4.7.0",
     "font-awesome5": "^1.0.5",
     "fontawesome": "^5.6.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
 	"lite-server": "^2.5.3",
     "mongoose": "^5.7.5",
     "nodemon": "^1.19.1",
